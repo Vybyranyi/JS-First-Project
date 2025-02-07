@@ -3,18 +3,10 @@
     margin: 0;
 }
 
-main{
+body{
     background-color: grey;
+}
+
+h1{
     padding: 20px;
-}
-
-button{
-    padding: 5px;
-    border: none;
-    margin: 10px;
-    border-radius: 5px;
-}
-
-.hidden{
-    display: none;
 }
